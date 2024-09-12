@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IDRISS ZIADI</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A passionate web developer from Algeria</h3>
 
 - 🔭 I’m currently working on **FULL STACK projects**
 
