@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FULL STACK projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **idriss.ziadi47@gmail.com**
 
